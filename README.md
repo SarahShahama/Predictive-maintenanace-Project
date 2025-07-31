@@ -8,7 +8,7 @@ This project aims to predict machine failures using supervised machine learning 
 📁 predictive-maintenance-project/
 │
 ├── ai4i2020.csv # Original dataset
-├── predictive_maintenance.ipynb # Main Python code with models
+├── Predictive_maintenance.ipynb # Main Python code with models
 ├── report.docx # Detailed project report
 ├── LICENSE # License file (CC BY-NC-ND 4.0)
 └── README.md # This file
